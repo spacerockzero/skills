@@ -38,14 +38,15 @@
 - Enables multiple options for completing
 - Enables creativity in writing & achieving skill
 - Possible template:
-> **Suggested Study**
->> Read Ch 9 - "Templating", from "Node.js in Action" (found in Library)
-> **Goal**
->> Demonstrate that you understand and are competent in templating
-> **Suggested Assignments (If you can't think of your own project idea**
->> 1) Write your own templating language and show it off.
->>> Bonus: Demonstrate both your language & markdown (or some other) templating working together in the same document.
->> 2) With your newfound understanding of how templating works, figure out how we use it within Frontier. Update/Improve/Create documentation for this where appropriate within the context of Frontier.
+
+  **Suggested Study**
+  Read Ch 9 - "Templating", from "Node.js in Action" (found in Library)
+  **Goal**
+  Demonstrate that you understand and are competent in templating
+  **Suggested Assignments (If you can't think of your own project idea**
+  1) Write your own templating language and show it off.
+    Bonus: Demonstrate both your language & markdown (or some other) templating working together in the same document.
+  2) With your newfound understanding of how templating works, figure out how we use it within Frontier. Update/Improve/Create documentation for this where appropriate within the context of Frontier.
 
 ### Have a time and location set aside for HackDay
 - Organic, optional. Like a Friday afternoon in a conference room with tables
